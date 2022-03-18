@@ -1,24 +1,16 @@
-# README
+# Rails-7
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails 7 application from "Getting Started with Rails" guide
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Run with 'bin/rails server'
+* Routing
+* Rails console
+* Database migrations
+* Create, update, show and destroy articles
+* Create and destroy comments
+* Model generation
+* Model association
+* Model validation & concerns
+* Forms & partial views
+* Error messages
+* Basic authentication
